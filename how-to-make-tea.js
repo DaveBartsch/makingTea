@@ -29,7 +29,7 @@ console.log("Today's tea is:", teaChoices[Math.floor(Math.random() * teaChoices.
 }
 
 
-function waitForWater(chosenTea) {
+function waitForWater() {
     console.log('Wait for the water to heat up.') }
 
 
